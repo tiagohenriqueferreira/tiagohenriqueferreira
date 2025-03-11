@@ -2,15 +2,18 @@
 
 **👨‍💻 Senior Full-cycle Developer & 🎨 Senior UX/UI Designer with over 15 years of experience**  
 **🏛️ Analyst of Technology at [Universidade Federal de Uberlândia](https://ufu.br)**  
-**🌎 Coordinator at [Drupal Brasil Community 🇧🇷](https://t.me/drupalbrasil)**  
+**<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil Flag" width="16"/> Coordinator at [Drupal Brasil Community](https://t.me/drupalbrasil)**  
 📍 [Patos de Minas, Minas Gerais, Brasil](https://goo.gl/maps/V7sSmghBLBLkAySj7)  
+
+
+
 
 ---
 
 ### 💪 About Me  
-🚀 Senior Full-cycle Web Developer specialized in **Drupal, PHP, JavaScript, CSS, and HTML**  
-🎨 Senior UX/UI Designer proficient with industry-standard design tools  
-❤️ Passionate about **creating efficient, scalable, accessible, and user-centered digital experiences**
+🚀 **Full-cycle Senior Web Developer** specializing in the development of portals, websites, and landing pages.  
+🎨 **Senior UX/UI Designer** with expertise in industry-leading design tools.  
+❤️ Passionate about crafting **efficient, scalable, accessible, and user-focused** digital experiences.
 
 ---
 
