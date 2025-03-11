@@ -2,7 +2,7 @@
 
 **👨‍💻 Senior Full-cycle Developer & 🎨 Senior UX/UI Designer with over 15 years of experience**  
 **🏛️ Analyst of Technology at [Federal University of Uberlândia](https://ufu.br)**  
-**<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil Flag" width="16"/> Coordinator at [Drupal Brasil Community](https://t.me/drupalbrasil)**  
+**<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil Flag" width="16"/> Coordinator at [Drupal Brazil Community](https://t.me/drupalbrasil)**  
 📍 [Patos de Minas, Minas Gerais, Brasil](https://pt.wikipedia.org/wiki/Patos_de_Minas)  
 
 ---
