@@ -83,7 +83,7 @@
 - 📢 [Portal da Promo](https://portaldapromo.com.br)
 - 🌾 [Sementes Goiás](https://sementesgoias.com.br)
 - 🧪 [Agrichem](https://agrichem.com.br)
-- 📐 [Online UX Team](https://onlinuxteam.com)
+- 📐 [Online UX Team](https://onlineuxteam.com)
 - 🎨 [Ubiratan Silva - UX/UI Designer](https://ubiratansilva.com)
 
 #### 🏭 State Industry Federations
