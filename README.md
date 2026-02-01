@@ -85,6 +85,8 @@
 - 🧪 [Agrichem](https://agrichem.com.br)
 - 📐 [Online UX Team](https://onlineuxteam.com)
 - 🎨 [Ubiratan Silva - UX/UI Designer](https://ubiratansilva.com)
+- 🏖️ [Vitrine Global](https://vitrineglobal.com)
+- 🚜 [Loveland](https://loveland.com.br)
 
 #### 🏭 State Industry Federations
 - 🔍 [Observatório - FIESC](https://observatorio.fiesc.com.br)
