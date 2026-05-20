@@ -89,6 +89,7 @@
 - 🚜 [Loveland](https://loveland.com.br)
 - 🥤 [Página de Cultura Coca-Cola Brasil](https://kofbrnews.com.br/cultura/)
 - 💻 [Blazon - Gestão de Identidade & Acessos](https://blazon.thfdigital.com/)
+- 🛑 [Ecossistema Octo®](https://ecossistemaocto.com.br/)
 
 #### 🏭 State Industry Federations
 - 🔍 [Observatório - FIESC](https://observatorio.fiesc.com.br)
