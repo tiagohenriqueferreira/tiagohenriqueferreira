@@ -82,6 +82,7 @@
 - 🏛️ [Câmara Municipal de Sacramento - MG](https://sacramento.cam.mg.gov.br)
 
 #### 🏢 Private Sector
+- 🌱 [Nutrien](https://nutrien.com.br/)
 - 📢 [Portal da Promo](https://portaldapromo.com.br)
 - 🌾 [Sementes Goiás](https://sementesgoias.com.br)
 - 🧪 [Agrichem](https://agrichem.com.br)
