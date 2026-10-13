@@ -7,6 +7,7 @@
 **<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil Flag" width="16"/> Coordinator at [Drupal Brazil Community](https://t.me/drupalbrasil)**
 
 **📍 [Patrocínio, Minas Gerais, Brasil](https://pt.wikipedia.org/wiki/Patroc%C3%ADnio)**
+
 **📍 [Patos de Minas, Minas Gerais, Brasil](https://pt.wikipedia.org/wiki/Patos_de_Minas)**
 
 ---
